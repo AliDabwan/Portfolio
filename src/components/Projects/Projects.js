@@ -27,16 +27,18 @@ function Projects() {
         <Grid item xs={12} sm={4} md={3} lg={4} >
           <ProjectCard
             imgPath={Ecart}
-            title="تطبيق اسواقي"
-            description="This is a fully functional eCommerce website 
+            title="Souqy Web App"
+            description="A web application as a fully functional eCommerce website  
+            that displays products and contains a shopping cart with online payment integration.
             that uses React.js + MUI and CSS in the front end
              and Asp.net Core and webAPI  in backend and PostgreSQL as Database.
-             I used stripe payment gate way and hosted in heroku.
+             I used stripe online payment integration and hosted in heroku.
              "
-             Fulldescription="This is a fully functional eCommerce website 
+             Fulldescription="A web application as a fully functional eCommerce website  
+             that displays products and contains a shopping cart with online payment integration.
              that uses React.js + MUI and CSS in the front end
               and Asp.net Core and webAPI  in backend and PostgreSQL as Database.
-              I used stripe payment gate way and hosted in heroku.
+              I used stripe online payment integration and hosted in heroku.
               "
             ghLink="https://github.com/AliDabwan/SouqApp"
             demoLink="https://mysouqapp-e05157a9e634.herokuapp.com/"

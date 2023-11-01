@@ -9,7 +9,7 @@ import ScrollToTop from "../ScrollToTop/ScrollToTop";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
  
 const resumeLink =
-"https://raw.githubusercontent.com/AliDabwan/Portfolio/3da90690c1f2b69394836658cbbe067d34a3e534/src/Assets/AliADabwanResume.pdf"
+"https://raw.githubusercontent.com/AliDabwan/Portfolio/6fc0836a9b47fda38d1ee741e0c3ad8c2af8adae/src/Assets/AliAliDabwanSaeedResume.pdf"
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
@@ -24,7 +24,7 @@ function ResumeNew() {
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
             variant="primary"
-            href="https://raw.githubusercontent.com/AliDabwan/Portfolio/3da90690c1f2b69394836658cbbe067d34a3e534/src/Assets/AliADabwanResume.pdf"
+            href="https://raw.githubusercontent.com/AliDabwan/Portfolio/6fc0836a9b47fda38d1ee741e0c3ad8c2af8adae/src/Assets/AliAliDabwanSaeedResume.pdf"
             target="_blank"
             style={{ maxWidth: "250px" }}
           >
@@ -42,7 +42,7 @@ function ResumeNew() {
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
             variant="primary"
-            href="https://raw.githubusercontent.com/AliDabwan/Portfolio/3da90690c1f2b69394836658cbbe067d34a3e534/src/Assets/AliADabwanResume.pdf"
+            href="https://raw.githubusercontent.com/AliDabwan/Portfolio/6fc0836a9b47fda38d1ee741e0c3ad8c2af8adae/src/Assets/AliAliDabwanSaeedResume.pdf"
             target="_blank"
             style={{ maxWidth: "250px" }}
           >
